@@ -1,0 +1,15 @@
+picture_path: traditional
+preview:
+  filename: 20221031_141155
+  original: 20221031_141155.jpg
+  thumbnail: 20221031_141155-thumbnail.jpg
+pictures:
+- filename: 20221031_141155
+  original: 20221031_141155.jpg
+  thumbnail: 20221031_141155-thumbnail.jpg
+- filename: 20220813_124522_crop
+  original: 20220813_124522_crop.jpg
+  thumbnail: 20220813_124522_crop-thumbnail.jpg
+- filename: 20180707_230309_crop_web
+  original: 20180707_230309_crop_web.jpg
+  thumbnail: 20180707_230309_crop_web-thumbnail.jpg

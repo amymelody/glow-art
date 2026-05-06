@@ -1,0 +1,14 @@
+picture_path: animation
+preview:
+  filename: 20241224_GlowHowl
+  original: 20241224_GlowHowl.gif
+  thumbnail: 20241224_GlowHowl.gif
+pictures:
+- filename: 20241224_GlowHowl
+  original: 20241224_GlowHowl.gif
+  thumbnail: 20241224_GlowHowl.gif
+- filename: HypnoShader
+  original: HypnoShader.gif
+  thumbnail: HypnoShader.gif
+  title: Hypno Shader
+  caption: Shader made with Unity variant of HLSL

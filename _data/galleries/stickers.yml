@@ -1,0 +1,45 @@
+picture_path: stickers
+preview:
+  filename: Glow_09_bark
+  original: Glow_09_bark.png
+  thumbnail: Glow_09_bark.png
+pictures:
+- filename: Glow_01_glee
+  original: Glow_01_glee.png
+  thumbnail: Glow_01_glee.png
+- filename: Glow_02_smirk
+  original: Glow_02_smirk.png
+  thumbnail: Glow_02_smirk.png
+- filename: Glow_03_tired
+  original: Glow_03_tired.png
+  thumbnail: Glow_03_tired.png
+- filename: Glow_04_shock
+  original: Glow_04_shock.png
+  thumbnail: Glow_04_shock.png
+- filename: Glow_05_sad
+  original: Glow_05_sad.png
+  thumbnail: Glow_05_sad.png
+- filename: Glow_06_flirty
+  original: Glow_06_flirty.png
+  thumbnail: Glow_06_flirty.png
+- filename: Glow_07_blushy
+  original: Glow_07_blushy.png
+  thumbnail: Glow_07_blushy.png
+- filename: Glow_08_uwu
+  original: Glow_08_uwu.png
+  thumbnail: Glow_08_uwu.png
+- filename: Glow_09_bark
+  original: Glow_09_bark.png
+  thumbnail: Glow_09_bark.png
+- filename: Glow_10_hug
+  original: Glow_10_hug.png
+  thumbnail: Glow_10_hug.png
+- filename: Glow_11
+  original: Glow_11.png
+  thumbnail: Glow_11.png
+- filename: Glow_12
+  original: Glow_12.png
+  thumbnail: Glow_12.png
+- filename: Glow_13
+  original: Glow_13.png
+  thumbnail: Glow_13.png
