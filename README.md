@@ -4,8 +4,8 @@ This website illustrates how to integrate a lightGallery/Isotope photo gallery i
 
 ## Installing
 
-1. Clone the git repo: `git clone https://github.com/opieters/jekyll-image-gallery-example.git`
-2. Change folder: `cd jekyll-image-gallery-example`
+1. Clone the git repo: `git clone https://https://github.com/amymelody/glow-art.git`
+2. Change folder: `cd glow-art`
 3. Install Jekyll: `gem install jekyll`
 
 ## Run the Website and Make It Your Own
