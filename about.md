@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+```
+   #######  #######
+ ##      ####      ##
+##        ##        ##
+##                  ##
+ ##                ##
+   ##            ##
+     ##        ##
+       ##    ##
+         ####
+```
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Glow Wolf - she/her or it/its
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This creature is a queer trans furry artist making visual and auditory art. It likes creativity that is fun, messy, vulnerable, simple and complex, escaping from expectations and embracing a primal delight.

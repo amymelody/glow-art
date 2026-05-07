@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Digital Art
-no_menu_item: true # required only for this example website because of menu construction
+no_menu_item: false
 support: [jquery, gallery]
 ---
 
