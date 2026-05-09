@@ -13,16 +13,23 @@
   original: 20221031_141155.jpg
   thumbnail: 20221031_141155-thumbnail.jpg
 -
- title: Telegram Stickers
- directory: stickers
- preview:
-  filename: Glow_09_bark
-  original: Glow_09_bark.png
-  thumbnail: Glow_09_bark.png
--
  title: Animation
  directory: animation
  preview:
   filename: 20241224_GlowHowl
   original: 20241224_GlowHowl.gif
   thumbnail: 20241224_GlowHowl.gif
+-
+ title: Doodles
+ directory: doodles
+ preview:
+  filename: 20230526_194434
+  original: 20230526_194434.jpg
+  thumbnail: 20230526_194434-thumbnail.jpg
+-
+ title: Telegram Stickers
+ directory: stickers
+ preview:
+  filename: Glow_09_bark
+  original: Glow_09_bark.png
+  thumbnail: Glow_09_bark.png
